@@ -1,0 +1,5 @@
+<scene version="1.5.2" shadowVolume="200 100 200">
+	<environment template="sunny" skyboxrot="-45"/>
+	<script file="MOD/script/menu.lua"/>
+</scene>
+
